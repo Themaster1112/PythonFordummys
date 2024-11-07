@@ -1,0 +1,5 @@
+Balls=input("How many footballs do you have?:")
+if Balls == "0":
+    print('Please buy a shipment of footballs')
+else:
+    print("You have enough footballs")
